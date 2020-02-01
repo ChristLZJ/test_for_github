@@ -1,0 +1,1 @@
+<?php if(get_option('mdx_version_commit')!='1.9.6.9e628a4'){update_option('mdx_version', '1.9.6');update_option('mdx_new_ver', '1.9.6');update_option('mdx_version_commit', '1.9.6.9e628a4');}?>

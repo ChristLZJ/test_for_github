@@ -1,0 +1,540 @@
+# Copyright (C) 2016 DesignWall
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: DW Resumé 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-05-04 10:32:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: footer.php:17
+msgid "Copyright &copy; %1$s by %2$s."
+msgstr ""
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/customizer-controls.php:69 inc/customizer-controls.php:214
+msgid "Item"
+msgstr ""
+
+#: inc/customizer-controls.php:195
+msgid "Add an item"
+msgstr ""
+
+#: inc/customizer-controls.php:335 inc/customizer-controls.php:356
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer-controls.php:336
+msgid "Add"
+msgstr ""
+
+#: inc/customizer-controls.php:336
+msgid "Change"
+msgstr ""
+
+#: inc/customizer-controls.php:358
+msgid "Close"
+msgstr ""
+
+#: inc/customizer.php:13
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:37 inc/customizer.php:141 inc/customizer.php:186
+#: inc/customizer.php:390 inc/customizer.php:464 inc/customizer.php:562
+#: inc/customizer.php:653 inc/customizer.php:743
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:54 inc/customizer.php:818
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer.php:69 inc/customizer.php:833
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer.php:84 inc/customizer.php:848
+msgid "Google+ Url"
+msgstr ""
+
+#: inc/customizer.php:99 inc/customizer.php:863
+msgid "LinkedIn Url"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "About Description"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Skills Section"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Skill Title #1"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Skill Icon #1"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Skill Title #2"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Skill Icon #2"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Skill Title #3"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Skill Icon #3"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Skill Title #4"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Skill Icon #4"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Skill Title #5"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Skill Icon #5"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Skill Title #6"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Skill Icon #6"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Expertise Section"
+msgstr ""
+
+#: inc/customizer.php:408 inc/customizer.php:482 inc/customizer.php:580
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Expertise"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Expert Name"
+msgstr ""
+
+#: inc/customizer.php:435
+msgid "Expert Percent"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Experience Section"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Experiences"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "From"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "To"
+msgstr ""
+
+#: inc/customizer.php:514 inc/customizer.php:690
+msgid "Company"
+msgstr ""
+
+#: inc/customizer.php:519 inc/customizer.php:685
+msgid "Position"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Resume Link"
+msgstr ""
+
+#: inc/customizer.php:547
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Hide Portfolios"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Portfolios"
+msgstr ""
+
+#: inc/customizer.php:621 inc/customizer.php:680
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:626
+msgid "Link"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Client Section"
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "Clients"
+msgstr ""
+
+#: inc/customizer.php:675
+msgid "Name"
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Company URL"
+msgstr ""
+
+#: inc/customizer.php:700
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer.php:712
+msgid "Contact Section"
+msgstr ""
+
+#: inc/customizer.php:720
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Contact Social"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Section Background"
+msgstr ""
+
+#: inc/customizer.php:770
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:878
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/customizer.php:893
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer.php:908
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/customizer.php:933
+msgid "CTA Section"
+msgstr ""
+
+#: inc/customizer.php:950
+msgid "CTA Content"
+msgstr ""
+
+#: inc/customizer.php:960
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:972
+msgid "Footer Image"
+msgstr ""
+
+#: inc/customizer.php:988
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:1013
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Content Font Family"
+msgstr ""
+
+#: inc/customizer.php:1067
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:1081
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:1095
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:1109
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/init.php:27
+msgid "Default"
+msgstr ""
+
+#: inc/installer/theme-installer.php:4 inc/installer/theme-installer.php:5
+msgid "DW Resume"
+msgstr ""
+
+#: inc/installer/theme-installer.php:16
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: inc/installer/theme-installer.php:17
+msgid ""
+"Thank you for purchasing our WordPress theme. If you have any question "
+"about this theme, please submit to our <a "
+"href=\"https://www.designwall.com/question/\">Q&A section</a>."
+msgstr ""
+
+#: inc/installer/theme-installer.php:18
+msgid "Getting Started"
+msgstr ""
+
+#: inc/installer/theme-installer.php:20
+msgid ""
+"Use the tips below to get started using %s. You will be up and running in "
+"no time!"
+msgstr ""
+
+#: inc/installer/theme-installer.php:22
+msgid "1. Theme Customizer"
+msgstr ""
+
+#: inc/installer/theme-installer.php:23
+msgid ""
+"DW Ressume supports the Theme Customizer for all theme settings. Click "
+"\"Customize\" to start customize your site."
+msgstr ""
+
+#: inc/installer/theme-installer.php:24
+msgid "Customize &rarr;"
+msgstr ""
+
+#: inc/installer/theme-installer.php:26
+msgid "2. Input Your Theme License"
+msgstr ""
+
+#: inc/installer/theme-installer.php:27
+msgid ""
+"The theme license key is just aimed at making the update easier with the "
+"one-click-update feature. Once you enter the theme license key, your "
+"website is constantly updating the patch without logging in to DesignWall "
+"website. If you haven’t had the theme license yet, <a "
+"href=\"https://www.designwall.com/my-account/\" target=\"_blank\">click "
+"here</a>."
+msgstr ""
+
+#: inc/installer/theme-installer.php:28
+msgid "Click here to input your license &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:28 inc/template-tags.php:47
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "<i class=\"fa fa-folder\"></i> %1$s"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "0 Comments"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:23
+msgid "License Manager"
+msgstr ""
+
+#: inc/updater/theme-updater.php:24
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:25
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:26
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:27
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:28
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:29
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:30
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:31
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:32
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:35
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:37
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "License keys do not match. %3$sCheck your license key here%4$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:39
+msgid "License is inactive. %3$sCheck your license key here%4$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+msgid "License key is disabled. %3$sCheck your license key here%4$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+msgid "License is inactive"
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+msgid "License is inactive. Please %1$sactivate your license%2$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+msgid "License status is unknown. %3$sCheck your license key here%4$s"
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "DW Resumé"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.designwall.com/wordpress/themes/dw-resume/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Resume Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DesignWall"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.designwall.com"
+msgstr ""
+
+#: inc/template-tags.php:17
+msgctxt "post date"
+msgid "<i class=\"fa fa-calendar\"></i> %s"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgctxt "post author"
+msgid "<i class=\"fa fa-user\"></i> %s"
+msgstr ""
